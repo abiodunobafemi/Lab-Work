@@ -1,4 +1,7 @@
 // Abiodun Obafemi
+// Write a class called CelToFah where a user inputs a Celsius degree in double type from the console, 
+// then converts it to Fahrenheit and displays the results. Formula for the conversion is: fahrenheit = (9 / 5) * celsius + 32
+
 
 import java.util.Scanner; // specific import
 
