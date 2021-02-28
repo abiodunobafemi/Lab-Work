@@ -1,4 +1,5 @@
 // Abiodun Obafemi
+// Write a program called Table and use only strings to display the following table
 
 public class Table {
 
