@@ -10,6 +10,15 @@
 *
 ********************************************/
 
+// Write a class called AgeMessages, which does the following:
+// Ask the user to enter age using a Scanner
+// If the age is less than 13, print: “too young to create a Facebook account”
+// If the age is less than 16, print: “too young to get a driver's license”
+// If the age is less than 18, print: “too young to get a tattoo”
+// If the age is less than 21, print: “too young to drink alcohol”
+// If the age is less than 35, print: “too young to run for President of the U.S.” and on next line print: “(How sad!)”
+// If the age is greater and equal to 35, print: “able to do anything” and on next line print: “(How happy!)”
+
 import java.util.*;
 public class AgeMessages {
 
