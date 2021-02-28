@@ -10,6 +10,12 @@
 *
 ********************************************/
 
+// Write a class called VoteAge, which does the following:
+// Ask the user to enter their age (ex. XX)
+// Get the age using a Scanner
+// If the age is greater than or equal to 18, it prints: “You are XX years old, old enough to vote.”
+// Otherwise, it prints: “You are XX years old, not old enough to vote.”
+
 import java.util.*;
 public class VoteAge {
 
