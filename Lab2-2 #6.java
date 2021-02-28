@@ -1,4 +1,12 @@
 // Abiodun Obafemi
+// Write a class called TipCalculator which does the following:
+// Look at the Sample Run below first which will help you understand better.
+// Declare 2 variables as double type: amount and tip
+// Declare a constant variable of double data type called TIP_RATE and assign 0.15
+// Create a Scanner
+// Asks the user to enter amount input. (note which line the user inputs)
+// Calculate tip = amount * 0.15
+// Show the output.
 
 import java.util.*;
 
