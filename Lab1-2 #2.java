@@ -1,4 +1,5 @@
 // Abiodun Obafemi
+// Write a Java class called, Arithmetic, and type the following code and run it
 
 public class Arithmetic {
 
